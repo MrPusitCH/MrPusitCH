@@ -27,7 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrPusitCH/MrPusitCH/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MrPusitCH/MrPusitCH/output/snake.svg" alt="Snake animation" width="85%" />
 </p>
-
 <p align="center"><i>Diligence and perseverance lead to success.</i></p>
